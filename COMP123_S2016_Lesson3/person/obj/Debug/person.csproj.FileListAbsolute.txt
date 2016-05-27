@@ -1,0 +1,2 @@
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\person\bin\Debug\person.exe.config
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\person\obj\Debug\person.csprojResolveAssemblyReference.cache

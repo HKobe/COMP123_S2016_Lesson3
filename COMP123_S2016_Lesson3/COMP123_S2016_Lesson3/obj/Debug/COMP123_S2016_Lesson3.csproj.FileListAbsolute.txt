@@ -1,0 +1,8 @@
+C:\Users\Hassa\Desktop\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\bin\Debug\COMP123_S2016_Lesson3.exe.config
+C:\Users\Hassa\Desktop\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\obj\Debug\COMP123_S2016_Lesson3.csprojResolveAssemblyReference.cache
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\bin\Debug\COMP123_S2016_Lesson3.exe.config
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\bin\Debug\COMP123_S2016_Lesson3.exe
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\bin\Debug\COMP123_S2016_Lesson3.pdb
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\obj\Debug\COMP123_S2016_Lesson3.exe
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\obj\Debug\COMP123_S2016_Lesson3.pdb
+C:\Users\Hassa\Desktop\PROGRAMMING 2\COMP123_S2016_Lesson3\COMP123_S2016_Lesson3\obj\Debug\COMP123_S2016_Lesson3.csprojResolveAssemblyReference.cache
